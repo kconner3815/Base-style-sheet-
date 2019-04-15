@@ -1,3 +1,28 @@
+// for breakout parrallax 
+
 <div class="breakout edge-to-edge parallax no-w" style="background-image: url('/wp-content/uploads/parrallax.jpg'); background-repeat: no-repeat; background-position: center; color: white;">
 
 
+// for 50/50 breakout - style sheet in other css 
+
+
+<div class="half-full grid" style="margin-bottom: 0;">
+<ul style="margin-top: 0; margin-bottom: 0;">
+ 	<li class="bg-img" style="background-position: center; background-image: url('');"></li>
+ 	<li class="text inverse" style="background: #2cc139;">
+<h3 style="color: white; border-left: none; text-shadow: 1px 2px #0000005e;">Lorem Ipsum</h3>
+<div class="one-half">
+<ul class="fancylist spaced">
+ 	<li></li>
+ 
+</ul>
+</div>
+<div class="one-half">
+<ul class="fancylist spaced">
+ 	<li></li>
+ 
+</ul>
+</div></li>
+</ul>
+</div>
+<div class="clear"></div>
