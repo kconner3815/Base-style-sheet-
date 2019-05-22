@@ -1,6 +1,6 @@
 // for breakout parrallax 
 
-<div class="breakout edge-to-edge parallax no-w" style="background-image: url('/wp-content/uploads/parrallax.jpg'); background-repeat: no-repeat; background-position: center; color: white;">
+<div class="breakout edge-to-edge parallax no-w inverse" style="background-image: url('/wp-content/uploads/parrallax.jpg'); background-position: center;">
 
 
 // for 50/50 breakout - style sheet in other css 
