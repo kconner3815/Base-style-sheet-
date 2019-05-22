@@ -1,0 +1,19 @@
+<div itemscope itemtype="http://schema.org/LocalBusiness">
+<span class="icon-item" itemprop="name">Lohman Eyecare Associates</span><br />
+<span class="icon-item" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+<a itemprop="streetAddress" href="https://www.google.com/maps" target="_blank"><i class="fas fa-map-marker" aria-hidden="true"></i> 12234 Wilsob<br/>State zip</a>
+</span><br />
+	
+	
+<span class="icon-item" itemprop="name"><i class="fas fa-phone" aria-hidden="true"></i><a href="tel:1234567891"> 123-456-7891</a>
+	</span><br /></span>	
+	
+<span class="icon-item" itemprop="name"><i class="fas fa-fax" aria-hidden="true"></i><a href="tel:1234567891"> 123-456-7891</a>
+	</span><br /></span>
+	
+	
+
+
+</div>
+					
+			
