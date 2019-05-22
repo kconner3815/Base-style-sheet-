@@ -1,0 +1,10 @@
+on_sent_ok: "location = 'enterURLhere.com';"
+
+// + add lables to form if none are there - Example
+
+<label for="name">Company Name</label>[text* your-name id:name placeholder "Company Name (required)"]
+<label for="email">Email</label>[email* your-email id:email placeholder "Email (required)"]
+<label for="phone">Phone</label>[text* your-phone id:phone placeholder "Phone (required)"]
+
+
+[submit "Send"]
