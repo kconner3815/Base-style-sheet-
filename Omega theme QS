@@ -1,0 +1,16 @@
+.break-out {
+    width: 100vw;
+    position: relative;
+    background-color: #96d801;
+    left: calc(-1 * (100vw - 100%) / 2);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 77px;
+    margin: 40px 0px 40px 0px;
+    background-image: linear-gradient(to right, #96d801 , #4c690b);
+}
+
+.break-out.inverse h3{ 
+	color: #fff; 
+
+}
